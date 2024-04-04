@@ -8,11 +8,6 @@ This React.js project, developed using Visual Studio Code, aims to [provide a br
 
 Before getting started, ensure you have the following installed on your machine: Node.js .npm (Node Package Manager) .Visual Studio Code
 
-#Installation:
-
-Clone the repository: git clone [https://github.com/Aditya227-tech/Swiggy_clone]
-Navigate to the project directory: cd [project_directory]3) Install dependencies: npm install
-#Usage
 
 Start the development server: npm start
 Open your browser and go to http://localhost:3000 to view the app.
